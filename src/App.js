@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
      <h1>This is a sentence shown using ReactJS</h1>
-     <p>something</p>
+     <h2>Second Branch</h2>
     </div>
   );
 }
